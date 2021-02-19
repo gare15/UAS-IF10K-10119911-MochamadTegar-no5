@@ -3,24 +3,28 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package uas.if10k.pkg10119911.mochamadtegar.no5;
-
+package percobaan1;
 
 /**
  *
  * @author Administrator
  */
-public class UASIF10K10119911MochamadTegarNo5 {
+public class Percobaan1 {
 
     /**
      * @param args the command line arguments
      */
-        mahasiswa m = new mahasiswa();
+    public static void main(String[] args) {
+        // TODO code application logic here
+        // Kode ini ditulis di dalam method main
+
+    User m = new User();
 
     m.setNim("10110269");
-    m.setNama("Rizki Adam Kurniawan");
+    m.setName("Rizki Adam Kurniawan");
 
-
-    System.out.println("Nim Mahasiswa : " + m.setNim());
-    System.out.println("Nama Mahasiswa : " + m.setNama()); 
+    System.out.println("Nim Mahasiswa: " + m.getNim());
+    System.out.println("Nama Mahasiswa: " + m.getName());  
     }
+    
+}
