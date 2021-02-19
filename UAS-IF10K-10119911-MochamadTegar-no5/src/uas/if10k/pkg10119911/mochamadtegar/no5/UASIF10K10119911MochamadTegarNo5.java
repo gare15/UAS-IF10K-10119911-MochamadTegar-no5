@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package percobaan1;
+package uas.if10k.pkg10119911.mochamadtegar.no5;
 
 /**
  *
  * @author Administrator
  */
-public class Percobaan1 {
+public class UASIF10K10119911MochamadTegarNo5 {
 
     /**
      * @param args the command line arguments
