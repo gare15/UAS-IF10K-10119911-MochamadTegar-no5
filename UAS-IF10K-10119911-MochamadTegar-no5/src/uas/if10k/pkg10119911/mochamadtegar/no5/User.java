@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package uas.if10k.pkg10119911.mochamadtegar.no5;
+package percobaan1;
 
 /**
  *
  * @author Administrator
  */
-public class mahasiswa {
+class User {
     private String nim;
     private String nama;
 
@@ -18,7 +18,7 @@ public class mahasiswa {
         this.nim = nim;
     }
 
-    public void setNama(String nama){
+    public void setName(String nama){
         this.nama = nama;
     }
 
@@ -27,7 +27,7 @@ public class mahasiswa {
         return this.nim;
     }
 
-    public String getNama(){
+    public String getName(){
         return this.nama;
     }
 }
