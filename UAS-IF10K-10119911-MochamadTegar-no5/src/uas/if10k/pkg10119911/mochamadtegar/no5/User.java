@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package percobaan1;
+package uas.if10k.pkg10119911.mochamadtegar.no5;
 
 /**
  *
